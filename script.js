@@ -944,92 +944,92 @@ document.getElementById("roomExit").onclick = function () {
 
 const memories = [
     {
-        image: "assets/images/Memory/memory1.jpg",
+        image: "assets/images/Memory/memory1.webp",
         text: "جزو اولین دیت هامون👫(دومی یا سومی شاید)"
     },
     {
-        image: "assets/images/Memory/memory2.jpg",
+        image: "assets/images/Memory/memory2.webp",
         text: "اولین کادویی که بهم دادی✨"
     },
     {
-        image: "assets/images/Memory/memory3.jpg",
+        image: "assets/images/Memory/memory3.webp",
         text: "اولین بوسه اینجا اتفاق افتاد💋"
     },
     {
-        image: "assets/images/Memory/memory4.jpg",
+        image: "assets/images/Memory/memory4.webp",
         text: "جزو اولین غذاهامون😋"
     },
     {
-        image: "assets/images/Memory/memory5.jpg",
+        image: "assets/images/Memory/memory5.webp",
         text: "اولین برف☃️"
     },
     {
-        image: "assets/images/Memory/memory6.jpg",
+        image: "assets/images/Memory/memory6.webp",
         text: "عکس مورد علاقم فووور اور"
     },
     {
-        image: "assets/images/Memory/memory7.jpg",
+        image: "assets/images/Memory/memory7.webp",
         text: "آقا این لاکت رو چیکار کردی؟ من خیلی دوسش داشتم"
     },
     {
-        image: "assets/images/Memory/memory8.jpg",
+        image: "assets/images/Memory/memory8.webp",
         text: "اولین گل درست حسابی که دادم و مثل خودت خوشگل شد💐"
     },
     {
-        image: "assets/images/Memory/memory9.jpg",
+        image: "assets/images/Memory/memory9.webp",
         text: "اولین ناهارت تو خونمون👩🏻‍❤️‍👨🏽"
     },
     {
-        image: "assets/images/Memory/memory10.jpg",
+        image: "assets/images/Memory/memory10.webp",
         text: "بوس سانسور شده"
     },
     {
-        image: "assets/images/Memory/memory11.jpg",
+        image: "assets/images/Memory/memory11.webp",
         text: "اثر هنری در حال نگاه کردن به یه نقاشی ساده"
     },
     {
-        image: "assets/images/Memory/memory12.jpg",
+        image: "assets/images/Memory/memory12.webp",
         text: "هات چاکلت + بارون"
     },
     {
-        image: "assets/images/Memory/memory13.jpg",
+        image: "assets/images/Memory/memory13.webp",
         text: "آرامش بینمون❤️"
     },
     {
-        image: "assets/images/Memory/memory14.jpg",
+        image: "assets/images/Memory/memory14.webp",
         text: "آقا این خرسه رو چیکار کردی؟"
     },
     {
-        image: "assets/images/Memory/memory15.jpg",
+        image: "assets/images/Memory/memory15.webp",
         text: "دیت صبحانه❤️"
     },
     {
-        image: "assets/images/Memory/memory16.jpg",
+        image: "assets/images/Memory/memory16.webp",
         text: "دیت صورتی💕"
     },
     {
-        image: "assets/images/Memory/memory17.jpg",
+        image: "assets/images/Memory/memory17.webp",
         text: "روز دختر👩‍🦰"
     },
     {
-        image: "assets/images/Memory/memory18.jpg",
+        image: "assets/images/Memory/memory18.webp",
         text: "به به"
     },
     {
-        image: "assets/images/Memory/memory19.jpg",
+        image: "assets/images/Memory/memory19.webp",
         text: "دیت جزیره🏖️"
     },
     {
-        image: "assets/images/Memory/memory20.jpg",
+        image: "assets/images/Memory/memory20.webp",
         text: "لاکی لاکیییی"
     },
     {
-        image: "assets/images/Memory/memory21.jpg",
+        image: "assets/images/Memory/memory21.webp",
         text: "شف امیر"
     },
     {
-        image: "assets/images/Memory/memory22.jpg",
-        text: "تولدت مبارکککک🥳"
+        image: "assets/images/Memory/memory22.webp",
+        text: "سالگردمون مبارکککک🥳"
     }
 ];
 
